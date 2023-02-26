@@ -1,14 +1,15 @@
 
 /* Your CSS Code here. */
 button{
+	border: 2px outset rgb(118, 118, 118);
+	border-radius:5px;
 	background: black;
-	border-radius: 5px;
 	color: white;
 }
 
 button:hover{
 	background: yellow;
-	border: 2px outset rgb(118, 118, 118);
+	border: 0px;
 	border-radius: 30px;
 	color: black;
 }
